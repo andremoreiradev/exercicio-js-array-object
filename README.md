@@ -1,1 +1,0 @@
-# exercicio-js-array-object
